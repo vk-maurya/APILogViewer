@@ -1,0 +1,4 @@
+2024-01-10 23:37:50,113 - INFO - main.py:47  - [ada208f7-779f-449e-ba94-b8f0bdebe201] Request: {'text': 'Hello world'}
+2024-01-10 23:37:50,120 - INFO - main.py:49  - [ada208f7-779f-449e-ba94-b8f0bdebe201] Response: ['Hello', 'world']
+2024-01-10 23:37:56,337 - INFO - main.py:47  - [118e2236-bbb2-4aac-b4e1-53761b92ed96] Request: {'text': 'Hello world'}
+2024-01-10 23:37:56,337 - INFO - main.py:49  - [118e2236-bbb2-4aac-b4e1-53761b92ed96] Response: ['Hello', 'world']
